@@ -1,4 +1,4 @@
-name: 打包 vue-pc-chat
+name: 创客通讯IM
 
 on: workflow_dispatch
 
